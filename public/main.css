@@ -1,0 +1,22 @@
+#mainContainer{
+    display: block;
+    margin: 40%;
+    margin-top: 10%;
+    background-color: grey;
+    border: 1px;
+    border-color: grey;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.activity{
+    color: white;
+    font-size: 2rem;
+}
+.error{
+    color: black;
+    font-size: 1rem;
+}
+.dataselected{
+    color: white;
+    font-size:  1rem;
+}
